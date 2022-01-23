@@ -75,3 +75,12 @@
 .svg-container {
 }
 
+header-2nd {
+}
+
+.header-2nd {
+  background: linear-gradient(to right, #349eed 0%, #0569d7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
